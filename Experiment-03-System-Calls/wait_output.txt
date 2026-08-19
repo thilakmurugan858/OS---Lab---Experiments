@@ -1,0 +1,10 @@
+PROGRAM 2: WAIT() SYSTEM CALL
+
+Command:
+./wait
+
+Output:
+
+Child Process Running
+Child Process Completed
+Parent Resumes Execution

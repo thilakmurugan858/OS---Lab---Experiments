@@ -1,0 +1,18 @@
+EXPERIMENT 12: PAGE REPLACEMENT ALGORITHMS
+
+========== FIFO ==========
+
+Reference String:
+7 0 1 2 0 3 0 4 2 3 0 3 2
+
+Number of Frames:
+3
+
+C Program Output:
+Total Page Faults = 10
+
+Shell Program Output:
+FIFO Page Replacement Demonstration
+Reference String: 7 0 1 2 0 3 0 4 2 3 0 3 2
+Frames: 3
+FIFO Algorithm Executed

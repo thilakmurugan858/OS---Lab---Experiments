@@ -1,0 +1,39 @@
+EXPERIMENT 11: MEMORY ALLOCATION METHODS
+
+========== BEST FIT - C PROGRAM ==========
+
+Input:
+
+Number of Blocks: 5
+Number of Processes: 4
+
+Block Sizes:
+100
+500
+200
+300
+600
+
+Process Sizes:
+212
+417
+112
+426
+
+Output:
+
+Process No      Process Size    Block No
+1               212             4
+2               417             2
+3               112             5
+4               426             5
+
+
+========== BEST FIT - SHELL PROGRAM ==========
+
+Output:
+
+Best Fit Memory Allocation Demonstration
+Memory Blocks: 100 500 200 300 600
+Processes: 212 417 112 426
+Allocation Performed Using Best Fit

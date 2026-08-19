@@ -1,0 +1,50 @@
+PROGRAM 4: ROUND ROBIN CPU SCHEDULING
+
+========== C PROGRAM ==========
+
+Input:
+Number of Processes: 4
+
+Burst Times:
+P1 = 5
+P2 = 3
+P3 = 8
+P4 = 6
+
+Time Quantum = 2
+
+Output:
+
+Process BT      WT      TAT
+P1      5       11      16
+P2      3       8       11
+P3      8       14      22
+P4      6       14      20
+
+Average Waiting Time = 11.75
+Average Turnaround Time = 17.25
+
+
+========== SHELL PROGRAM ==========
+
+Input:
+Number of Processes: 4
+
+Burst Times:
+P1 = 5
+P2 = 3
+P3 = 8
+P4 = 6
+
+Time Quantum = 2
+
+Output:
+
+Process BT      WT      TAT
+P1      5       11      16
+P2      3       8       11
+P3      8       14      22
+P4      6       14      20
+
+Average Waiting Time = 11.75
+Average Turnaround Time = 17.25

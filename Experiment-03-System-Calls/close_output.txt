@@ -1,0 +1,9 @@
+PROGRAM 3: CLOSE() SYSTEM CALL
+
+Command:
+./close
+
+Output:
+
+File Opened Successfully
+File Closed Successfully

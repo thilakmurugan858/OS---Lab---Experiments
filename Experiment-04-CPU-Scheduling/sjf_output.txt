@@ -1,0 +1,44 @@
+PROGRAM 2: SJF CPU SCHEDULING
+
+========== C PROGRAM ==========
+
+Input:
+Number of Processes: 4
+Burst Times:
+P1 = 5
+P2 = 3
+P3 = 8
+P4 = 6
+
+Output:
+
+Process BT      WT      TAT
+P1      3       0       3
+P2      5       3       8
+P3      6       8       14
+P4      8       14      22
+
+Average Waiting Time = 6.25
+Average Turnaround Time = 11.75
+
+
+========== SHELL PROGRAM ==========
+
+Input:
+Number of Processes: 4
+Burst Times:
+P1 = 5
+P2 = 3
+P3 = 8
+P4 = 6
+
+Output:
+
+Process BT      WT      TAT
+P1      3       0       3
+P2      5       3       8
+P3      6       8       14
+P4      8       14      22
+
+Average Waiting Time = 6.25
+Average Turnaround Time = 11.75

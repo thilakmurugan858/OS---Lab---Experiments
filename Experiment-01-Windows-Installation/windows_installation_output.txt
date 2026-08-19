@@ -1,0 +1,35 @@
+EXPERIMENT 1: INSTALLATION OF WINDOWS OPERATING SYSTEM
+
+AIM:
+To install the Windows Operating System on a computer using
+bootable installation media and verify its successful operation.
+
+VERIFICATION COMMANDS FROM THE OS LAB MANUAL:
+
+1. Display Windows Version
+   winver
+
+2. Display System Information
+   systeminfo
+
+3. Display Computer Name
+   hostname
+
+4. Display Disk Information
+   diskpart
+   list disk
+
+5. Check Windows Activation Status
+   slmgr /xpr
+
+6. Display IP Configuration
+   ipconfig
+
+NOTE:
+The above commands require a Windows environment for execution.
+This experiment was not executed on the Mac system used for the
+remaining OS lab programs.
+
+RESULT:
+The Windows installation procedure and verification commands
+were documented according to the OS Lab Manual.

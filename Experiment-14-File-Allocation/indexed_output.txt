@@ -1,0 +1,6 @@
+EXPERIMENT 14: FILE ALLOCATION STRATEGIES
+
+========== INDEXED ALLOCATION ==========
+
+Index Block : 10
+Allocated Blocks : 20 30 40 50

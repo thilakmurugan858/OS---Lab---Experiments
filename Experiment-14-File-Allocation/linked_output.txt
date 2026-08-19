@@ -1,0 +1,6 @@
+EXPERIMENT 14: FILE ALLOCATION STRATEGIES
+
+========== LINKED ALLOCATION ==========
+
+Linked Allocation:
+10 --> 20 --> 30 --> 40 --> NULL

@@ -1,0 +1,26 @@
+EXPERIMENT 13: FILE ORGANIZATION TECHNIQUES
+
+========== DIRECT (RANDOM) FILE ORGANIZATION ==========
+
+C PROGRAM
+
+Input:
+Register Number: 102
+Name: Kumar
+
+Output:
+
+Record Found
+Reg No : 102
+Name : Kumar
+
+
+SHELL PROGRAM
+
+Input:
+102 Kumar
+
+Output:
+
+Random Access Record
+102 Kumar

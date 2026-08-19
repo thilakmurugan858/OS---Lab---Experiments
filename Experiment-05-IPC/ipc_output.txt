@@ -1,0 +1,19 @@
+EXPERIMENT 5: INTER PROCESS COMMUNICATION (IPC)
+PROGRAM: IPC USING PIPE
+
+========== C PROGRAM ==========
+
+Command:
+./ipc_pipe
+
+Output:
+Message received from child: Hello from Child Process
+
+
+========== SHELL PROGRAM ==========
+
+Command:
+./ipc_pipe.sh
+
+Output:
+Hello from Child Process

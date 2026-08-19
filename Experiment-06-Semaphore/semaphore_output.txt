@@ -1,0 +1,25 @@
+EXPERIMENT 6: SEMAPHORE IMPLEMENTATION
+PROGRAM: MUTUAL EXCLUSION USING SEMAPHORE
+
+========== C PROGRAM ==========
+
+Command:
+./semaphore
+
+Output:
+
+Parent Process Entering Critical Section
+Child Process Entering Critical Section
+Child Process Leaving Critical Section
+Parent Process Leaving Critical Section
+
+
+========== SHELL PROGRAM ==========
+
+Command:
+./semaphore.sh
+
+Output:
+
+Entering Critical Section
+Leaving Critical Section

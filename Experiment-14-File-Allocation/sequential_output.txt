@@ -1,0 +1,9 @@
+EXPERIMENT 14: FILE ALLOCATION STRATEGIES
+
+========== SEQUENTIAL ALLOCATION ==========
+
+Starting Block : 10
+Length : 5
+
+Allocated Blocks:
+10 11 12 13 14

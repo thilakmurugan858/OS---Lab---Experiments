@@ -1,0 +1,24 @@
+
+EXPERIMENT 13: FILE ORGANIZATION TECHNIQUES
+
+========== SEQUENTIAL FILE ORGANIZATION ==========
+
+C PROGRAM
+
+Input:
+Register Number: 101
+Name: Arun
+
+Output:
+
+Record Details
+Register Number : 101
+Name : Arun
+
+
+SHELL PROGRAM
+
+Output:
+
+Contents of File
+101 Arun

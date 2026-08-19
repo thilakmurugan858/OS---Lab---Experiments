@@ -1,0 +1,14 @@
+PROGRAM 1: FORK(), GETPID(), WAIT(), EXIT()
+
+Command:
+./process
+
+Output:
+
+CHILD PROCESS
+Child PID : 78247
+Parent PID : 78246
+
+PARENT PROCESS
+Parent PID : 78246
+Parent's Parent PID : 77929

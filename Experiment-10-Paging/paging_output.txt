@@ -1,0 +1,52 @@
+EXPERIMENT 10: PAGING TECHNIQUE
+
+========== C PROGRAM ==========
+
+Command:
+./paging
+
+Input:
+
+Page Size: 100
+Number of Pages: 4
+
+Frame Numbers:
+Page 0 -> Frame 5
+Page 1 -> Frame 2
+Page 2 -> Frame 8
+Page 3 -> Frame 1
+
+Logical Address: 250
+
+Output:
+
+Page Number : 2
+Offset : 50
+Frame Number : 8
+Physical Address : 850
+
+
+========== SHELL PROGRAM ==========
+
+Command:
+./paging.sh
+
+Input:
+
+Page Size: 100
+Number of Pages: 4
+
+Frame Numbers:
+Page 0 -> Frame 5
+Page 1 -> Frame 2
+Page 2 -> Frame 8
+Page 3 -> Frame 1
+
+Logical Address: 250
+
+Output:
+
+Page Number : 2
+Offset : 50
+Frame Number : 8
+Physical Address : 850
